@@ -28,4 +28,5 @@ I worked on this project to understand how raw business data can be converted in
 This project helped me understand how to automate reporting and use data for better decision-making.
 
 ## Author
-Prakash Raj
+Reosi Dey
+
